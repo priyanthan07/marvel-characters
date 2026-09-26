@@ -1,4 +1,9 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "5"
+# ///
+
 # MAGIC %pip install marvelousmlops-marvel-characters-1.0.1-py3-none-any.whl
 
 # COMMAND ----------

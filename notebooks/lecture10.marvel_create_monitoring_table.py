@@ -1,4 +1,9 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "5"
+# ///
+
 # %pip install marvel_characters-0.1.0-py3-none-any.whl
 # COMMAND ----------
 
